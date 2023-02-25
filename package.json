@@ -1,7 +1,7 @@
 {
-  "name": "@shopify/shopify-api",
-  "version": "6.2.0",
-  "description": "Shopify API Library for Node - accelerate development with support for authentication, graphql proxy, webhooks",
+  "name": "@albiyu/shopify-api",
+  "version": "0.0.1",
+  "description": "Forkerd from Shopify API Library for Node (cookies samesite option changed) - accelerate development with support for authentication, graphql proxy, webhooks",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "exports": {
@@ -51,12 +51,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/shopify-api-js.git"
+    "url": "git+https://github.com/yusupova/shopify-api-js.git#same-site-cookies-none"
   },
   "bugs": {
-    "url": "https://github.com/Shopify/shopify-api-js/issues"
+    "url": "https://github.com/yusupova/shopify-api-js/issues"
   },
-  "homepage": "https://github.com/Shopify/shopify-api-js",
+  "homepage": "https://github.com/yusupova/shopify-api-js/tree/same-site-cookies-none",
   "author": "Shopify Inc.",
   "license": "MIT",
   "keywords": [
